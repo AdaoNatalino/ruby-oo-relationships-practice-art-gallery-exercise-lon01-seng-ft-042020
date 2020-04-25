@@ -1,0 +1,35 @@
+=> [[32m#<Painting:0x00007fffe19bca88[0m
+  @artist[32m=[0m[32m#<Artist:0x00007fffe19bda00[0m @name[32m=[0m[31m[1;31m"[0m[31mLeonardo_da_Vince[1;31m"[0m[31m[0m, @years_experience[32m=[0m[1;34m300[0m[32m>[0m,
+  @galery[32m=[0m[32m#<Gallery:0x00007fffe19bd2d0[0m @city[32m=[0m[31m[1;31m"[0m[31mParis[1;31m"[0m[31m[0m, @name[32m=[0m[31m[1;31m"[0m[31mMusean_of_Luvre[1;31m"[0m[31m[0m[32m>[0m,
+  @price[32m=[0m[1;34m1000[0m,
+  @title[32m=[0m[31m[1;31m"[0m[31mMonalisa[1;31m"[0m[31m[0m[32m>[0m,
+ [32m#<Painting:0x00007fffe19bc998[0m
+  @artist[32m=[0m[32m#<Artist:0x00007fffe19bda00[0m @name[32m=[0m[31m[1;31m"[0m[31mLeonardo_da_Vince[1;31m"[0m[31m[0m, @years_experience[32m=[0m[1;34m300[0m[32m>[0m,
+  @galery[32m=[0m[32m#<Gallery:0x00007fffe19bd2d0[0m @city[32m=[0m[31m[1;31m"[0m[31mParis[1;31m"[0m[31m[0m, @name[32m=[0m[31m[1;31m"[0m[31mMusean_of_Luvre[1;31m"[0m[31m[0m[32m>[0m,
+  @price[32m=[0m[1;34m2000[0m,
+  @title[32m=[0m[31m[1;31m"[0m[31mThe_Last_Supper[1;31m"[0m[31m[0m[32m>[0m,
+ [32m#<Painting:0x00007fffe19bc740[0m
+  @artist[32m=[0m[32m#<Artist:0x00007fffe19bda00[0m @name[32m=[0m[31m[1;31m"[0m[31mLeonardo_da_Vince[1;31m"[0m[31m[0m, @years_experience[32m=[0m[1;34m300[0m[32m>[0m,
+  @galery[32m=[0m[32m#<Gallery:0x00007fffe19bcc18[0m @city[32m=[0m[31m[1;31m"[0m[31mAmsterda[1;31m"[0m[31m[0m, @name[32m=[0m[31m[1;31m"[0m[31mAnne_Frank_House[1;31m"[0m[31m[0m[32m>[0m,
+  @price[32m=[0m[1;34m900[0m,
+  @title[32m=[0m[31m[1;31m"[0m[31mVirgin_of_the_Rocks[1;31m"[0m[31m[0m[32m>[0m,
+ [32m#<Painting:0x00007fffe19bc600[0m
+  @artist[32m=[0m[32m#<Artist:0x00007fffe19bd820[0m @name[32m=[0m[31m[1;31m"[0m[31mVan-Gough[1;31m"[0m[31m[0m, @years_experience[32m=[0m[1;34m150[0m[32m>[0m,
+  @galery[32m=[0m[32m#<Gallery:0x00007fffe19bcc18[0m @city[32m=[0m[31m[1;31m"[0m[31mAmsterda[1;31m"[0m[31m[0m, @name[32m=[0m[31m[1;31m"[0m[31mAnne_Frank_House[1;31m"[0m[31m[0m[32m>[0m,
+  @price[32m=[0m[1;34m1500[0m,
+  @title[32m=[0m[31m[1;31m"[0m[31mThe_Starry_Night[1;31m"[0m[31m[0m[32m>[0m,
+ [32m#<Painting:0x00007fffe19bc1a0[0m
+  @artist[32m=[0m[32m#<Artist:0x00007fffe19bd820[0m @name[32m=[0m[31m[1;31m"[0m[31mVan-Gough[1;31m"[0m[31m[0m, @years_experience[32m=[0m[1;34m150[0m[32m>[0m,
+  @galery[32m=[0m[32m#<Gallery:0x00007fffe19bcc18[0m @city[32m=[0m[31m[1;31m"[0m[31mAmsterda[1;31m"[0m[31m[0m, @name[32m=[0m[31m[1;31m"[0m[31mAnne_Frank_House[1;31m"[0m[31m[0m[32m>[0m,
+  @price[32m=[0m[1;34m1279[0m,
+  @title[32m=[0m[31m[1;31m"[0m[31mThe_Potato_Easters[1;31m"[0m[31m[0m[32m>[0m,
+ [32m#<Painting:0x00007fffe19b2ce0[0m
+  @artist[32m=[0m[32m#<Artist:0x00007fffe19bd5a0[0m @name[32m=[0m[31m[1;31m"[0m[31mMonet[1;31m"[0m[31m[0m, @years_experience[32m=[0m[1;34m200[0m[32m>[0m,
+  @galery[32m=[0m[32m#<Gallery:0x00007fffe19bcc18[0m @city[32m=[0m[31m[1;31m"[0m[31mAmsterda[1;31m"[0m[31m[0m, @name[32m=[0m[31m[1;31m"[0m[31mAnne_Frank_House[1;31m"[0m[31m[0m[32m>[0m,
+  @price[32m=[0m[1;34m349[0m,
+  @title[32m=[0m[31m[1;31m"[0m[31mThe_Watter_Lyly_Pound[1;31m"[0m[31m[0m[32m>[0m,
+ [32m#<Painting:0x00007fffe19b2bc8[0m
+  @artist[32m=[0m[32m#<Artist:0x00007fffe19bd5a0[0m @name[32m=[0m[31m[1;31m"[0m[31mMonet[1;31m"[0m[31m[0m, @years_experience[32m=[0m[1;34m200[0m[32m>[0m,
+  @galery[32m=[0m[32m#<Gallery:0x00007fffe19bd2d0[0m @city[32m=[0m[31m[1;31m"[0m[31mParis[1;31m"[0m[31m[0m, @name[32m=[0m[31m[1;31m"[0m[31mMusean_of_Luvre[1;31m"[0m[31m[0m[32m>[0m,
+  @price[32m=[0m[1;34m1739[0m,
+  @title[32m=[0m[31m[1;31m"[0m[31mImpression_Sunrise[1;31m"[0m[31m[0m[32m>[0m]
